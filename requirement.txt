@@ -1,0 +1,11 @@
+
+---
+
+## 📦 requirements.txt
+
+```txt
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
